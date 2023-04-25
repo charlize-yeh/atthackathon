@@ -15,5 +15,6 @@
 
 **who's in the Team:** Charlize Yeh, Kezia Leung, and Ezinwanne Okoye
 
-**how to run the program:** All you have to do is click this website link and it will bring you to our project!
-key frameworks that you are using
+**how to run the program:** All you have to do is click this website link and it will bring you to our project! https://atthackathon.charlizeyeh.repl.co/ 
+
+**key frameworks that you are using:** CSS, HTML
