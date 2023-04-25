@@ -1,0 +1,305 @@
+html {
+  height: 600%;
+  width: 100%;
+}
+.navbar {
+  position: absolute;
+  width: 1370px;
+  height: 150px;
+  left: 0px;
+  top: 0px;
+  background: #000000;
+}
+.navbar a {
+  color: white;
+  padding-right: 50px;
+  text-decoration: none;
+  font-size: 30px;
+}
+
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 10;
+  float: right;
+  margin-top: 40px;
+}
+.navbar li {
+  display: inline-block;
+}
+
+.navbar a.nav-link {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 34px;
+  text-decoration: none;
+}
+
+.center-text {
+  position: absolute;
+  width: 909px;
+  height: 122px;
+  left: 302px;
+  top: 232px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 61px;
+  text-align: center;
+  color: #000000;
+}
+
+.you {
+  position: absolute;
+  width: 909px;
+  height: 61px;
+  left: 302px;
+  top: 396px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 61px;
+  /* identical to box height */
+  text-align: center;
+  color: #000000;
+}
+
+.circle {
+  border-radius: 50%;
+  position: absolute;
+  width: 599px;
+  height: 599px;
+  left: 456px;
+  top: 522px;
+  background: #91DC00;
+}
+
+.inner-circle{
+  border-radius: 50%;
+  position: absolute;
+  width: 389px;
+  height: 389px;
+  left: 561px;
+  top: 627px;
+  background: #FFFFFF;
+}
+
+.inside-circle{
+  position: absolute;
+width: 268px;
+height: 108px;
+left: 621px;
+top: 757px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+text-align: center;
+color: #000000;
+}
+
+.black-break{
+  position: absolute;
+width: 1512px;
+height: 614px;
+left: -1px;
+top: 1214px;
+background: #000000;
+}
+
+.inside-black {
+  position: absolute;
+width: 786px;
+height: 122px;
+left: 363px;
+top: 1472px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 61px;
+text-align: center;
+color: #FFFFFF;
+}
+
+.atty-games{
+  position: absolute;
+width: 909px;
+height: 183px;
+left: 270px;
+top: 1850px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 61px;
+text-align: center;
+color: #000000;
+}
+
+.discount{
+  position: absolute;
+width: 1222px;
+height: 96px;
+left: 113px;
+top: 2124px;
+font-family: 'Inter';
+font-style: italic;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+text-align: center;
+color: #000000;
+}
+
+.blue-break{
+  position: absolute;
+width: 1512px;
+height: 1079px;
+left: 0px;
+top: 2270px;
+background: #109CDB;
+}
+
+.rank{
+  position: absolute;
+width: 145px;
+height: 51px;
+left: 1149px;
+top: 2346px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 48px;
+color: #FFFFFF;
+}
+
+.coin {
+  position: absolute;
+left: 42px;
+top: 2342px;
+}
+.coins{
+  position: absolute;
+width: 190px;
+height: 39px;
+left: 158px;
+top: 2366px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 48px;
+color: #FFFFFF;
+}
+
+.rect-left {
+  box-sizing: border-box;
+position: absolute;
+width: 23px;
+height: 54px;
+left: 1325px;
+top: 2331px;
+background: #FFFFFF;
+border: 1px solid #109CDB;
+}
+
+.rect-mid {
+  box-sizing: border-box;
+position: absolute;
+width: 23px;
+height: 74px;
+left: 1348px;
+top: 2311px;
+background: #FFFFFF;
+border: 1px solid #109CDB;
+}
+
+.rect-right {
+  box-sizing: border-box;
+position: absolute;
+width: 23px;
+height: 35px;
+left: 1371px;
+top: 2350px;
+background: #FFFFFF;
+border: 1px solid #109CDB;
+}
+
+.settings {
+  position: absolute;
+left: 1430px;
+top: 2335px;
+}
+
+.atty-game{
+  box-sizing: border-box;
+position: absolute;
+width: 1511px;
+height: 1267px;
+left: 0px;
+top: 2470px;
+background: #FFFFFF;
+border: 18px solid #109CDB;
+}
+
+.daily {
+  position: absolute;
+width: 909px;
+height: 61px;
+left: 301px;
+top: 2631px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 61px;
+/* identical to box height */
+text-align: center;
+color: #000000;
+}
+
+.game-buttons {
+  position: absolute;
+width: 550px;
+height: 128px;
+left: 481px;
+top: 2900px;
+}
+
+.game-buttons ul {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+  list-style-type: none;
+}
+
+.game-buttons li {
+  margin: 10px 0;
+}
+
+.game-buttons li {
+  background-color: #91DE02;
+  margin-bottom: 5px;
+  border-radius: 56px;
+}
+
+.game-buttons li a {
+  font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+  display: block;
+  padding: 10px;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+}
